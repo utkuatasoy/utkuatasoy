@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utku</h1>
 <h3 align="center">Passionate about developing systems using Deep learning & Computer Vision.</h3>
 
-- 🔭 I’m currently working on [AI-Powerede Deepfake Detection](https://github.com/utkuatasoy/AI-Powered-Deepfake-Detection)
+- 🔭 I’m currently working on [AI-Powered Deepfake Detection](https://github.com/utkuatasoy/AI-Powered-Deepfake-Detection)
 
 - 📫 How to reach me **utkumuratatasoy@gmail.com**
 
