@@ -1,5 +1,9 @@
 # Hi 👋, I'm Utku
-- AI engineering student with expertise in computer vision, machine learning, and deep learning.<br>- Solid understanding of various image processing techniques, including object detection, stereo vision, and tracking. <br>- Experienced in working with advanced AI models, and applying machine learning techniques for real-time applications in various domains.<br><br>📫 How to reach me utkumuratatasoy@gmail.com
+- AI engineering student with expertise in computer vision, machine learning, and deep learning.
+- Solid understanding of various image processing techniques, including object detection, stereo vision, and tracking.
+- Experienced in working with advanced AI models, and applying machine learning techniques for real-time applications in various domains.
+
+📫 How to reach me utkumuratatasoy@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy) 
