@@ -5,8 +5,6 @@
 
 🏆 Experienced in working with advanced AI models, and applying machine learning techniques for real-time applications in various domains.
 
-📫 How to reach me utkumuratatasoy@gmail.com
-
 ⚡ Connect with me  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy) 
 <div align="center"> 
    <h1> 🔭 Tech Stack </h1>
