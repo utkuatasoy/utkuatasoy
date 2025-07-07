@@ -1,11 +1,19 @@
-# Hi 👋, I'm Utku
-🚀 AI engineering student with expertise in computer vision, machine learning, and deep learning.
+# Hi 👋, I'm Utku Murat Atasoy  
 
-🔧 Solid understanding of various image processing techniques, including object detection, stereo vision, and tracking.
+🎓 **Artificial Intelligence Engineering Graduate (B.Sc, TOBB ETÜ)**  
+🚀 Passionate about building intelligent, scalable, and real-time AI systems — with a focus on **computer vision**, **deep learning**, and **edge AI** applications.
 
-🏆 Experienced in working with advanced AI models, and applying machine learning techniques for real-time applications in various domains.
+💡 My current work focuses on:  
+- **Expanding an AI-powered deepfake detection pipeline**, improving generalization on unseen manipulations and exploring adversarial robustness in biometric systems  
+- **Building a comic translation tool with text bubble detection, segmentation, and inpainting** to enable seamless translation and localization of comic books  
+- **Optimizing vision models** for real-time performance on edge devices  
+---
 
-⚡ Connect with me  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy) 
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy)  
+
+---
+
 <div align="center"> 
    <h1> 🔭 Tech Stack </h1>
 </div>
