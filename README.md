@@ -7,7 +7,6 @@
 - **Expanding an AI-powered deepfake detection pipeline**, improving generalization on unseen manipulations and exploring adversarial robustness in biometric systems  
 - **Building a comic translation tool with text bubble detection, segmentation, and inpainting** to enable seamless translation and localization of comic books  
 - **Optimizing vision models** for real-time performance on edge devices  
----
 
 ## 📫 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy)  
