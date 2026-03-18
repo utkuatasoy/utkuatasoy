@@ -1,6 +1,6 @@
-# Hi, I'm Utku Murat Atasoy
+# Hi, I'm Utku Atasoy
 
-**AI/ML Engineer @Turkcell**
+**AI/ML Engineer @Turkcell Technology**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Rw6NL9UAAAAJ&hl=en)
