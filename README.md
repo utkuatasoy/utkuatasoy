@@ -29,5 +29,6 @@
 ## Badges
 
 <p align="center">
-  <a href="https://www.credly.com/badges/25b654cc-24a3-46b7-a7ac-47ac04721a27"><img src="agentic-era-hackathon.png" alt="Agentic Era Hackathon" width="150"></a>
+  <a href="https://www.credly.com/badges/25b654cc-24a3-46b7-a7ac-47ac04721a27"><img src="assets/agentic-era-hackathon.png" alt="Agentic Era Hackathon" width="150"></a>
+  <a href="https://www.credly.com/badges/51b8b130-3b44-4b5d-9664-b34a4500a760"><img src="assets/gemini-enterprise-hackathon.png" alt="Gemini Enterprise AI Hackathon 2026" width="150"></a>
 </p>
