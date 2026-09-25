@@ -1,36 +1,44 @@
-# Hi, I'm Utku Atasoy
+# hi, i'm utku atasoy 👋
 
-**AI/ML Engineer @Turkcell Technology**
+`ai/ml engineer @ turkcell technology`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/utku-murat-atasoy)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Rw6NL9UAAAAJ&hl=en)
 
-## About
+## `$ cat about.py`
 
-- AI/ML Engineer pursuing an M.Sc. in Data Science and Artificial Intelligence at Boğaziçi University, with a B.Sc. in Artificial Intelligence Engineering from TOBB ETU.
+```python
+utku = {
+    "role":      "ai/ml engineer @ turkcell technology",
+    "studying":  "m.sc. data science & ai @ boğaziçi university",
+    "graduated": "b.sc. ai engineering @ tobb etu",
+    "building":  "llm-powered ai call center backend",
+    "stack":     ["langgraph", "langchain", "litellm", "langfuse", "mcp",
+                  "whisper", "faiss", "fastapi", "postgresql", "redis",
+                  "opensearch", "openshift", "jenkins"],
+    "research":  "deepfake detection in biometric systems @ ieee asyu 2025",
+    "fuel":      ["sleep", "caffeine", "l-citrulline"],
+}
+```
 
-- Currently building the backend of an LLM-powered AI Call Center platform at Turkcell, focusing on chatbot execution, real-time agent-assist, and multi-agent orchestration with LangGraph, LangChain, Langfuse, and FastAPI.
+## `$ cat research.md`
 
-## Research
+- **[AI-Powered Deepfake Detection in Biometric Systems](https://ieeexplore.ieee.org/document/11208454)**
+  built a domain-independent deepfake detection pipeline for biometric security systems. combined multiple manipulation sources into a hybrid dataset, reaching high accuracy and strong generalization on both known and unseen data.
 
-- **[AI-Powered Deepfake Detection in Biometric Systems](https://ieeexplore.ieee.org/document/11208454)** — IEEE ASYU 2025
-  Developed a domain-independent deepfake detection pipeline for biometric security systems. Created a hybrid dataset by combining multiple manipulation sources, achieving high accuracy and strong generalization on both known and unseen data scenarios.
+## `$ cat skills.yaml`
 
-## Skills
+```yaml
+ai_ml:     [llms, langgraph, langchain, langfuse, litellm, google-adk, mcp, whisper, faiss,
+            computer-vision, yolo, deep-learning, tensorflow, pytorch, scikit-learn, opencv]
+backend:   [fastapi, flask, sqlalchemy, postgresql, redis, opensearch, mysql, sqlite]
+devops:    [openshift, kubernetes, docker, jenkins-ci/cd]
+cloud:     [gcp, vertex-ai, cloud-run]
+edge_ai:   [model-optimization, tflite, onnx, raspberry-pi, arduino]
+languages: [python, c, c++, java, c#, r]
+```
 
-**AI/ML:** Large Language Models, LangGraph, LangChain, Langfuse, LiteLLM, Google ADK, MCP, Whisper, FAISS, Computer Vision, YOLO, Deep Learning, TensorFlow, PyTorch, scikit-learn, OpenCV
-
-**Backend:** FastAPI, Flask, SQLAlchemy, PostgreSQL, Redis, OpenSearch, MySQL, SQLite
-
-**DevOps:** OpenShift, Kubernetes, Docker, Jenkins CI/CD
-
-**Cloud:** Google Cloud Platform (GCP), Vertex AI, Cloud Run
-
-**Edge AI:** Model optimization, TFLite, ONNX, Raspberry Pi, Arduino
-
-**Languages:** Python, C, C++, Java, C#, R
-
-## Badges
+## `$ ls ./badges`
 
 <p align="center">
   <a href="https://digitalcredential.stanford.edu/check/9BB14D74156B44E258AFB47165EB5A521406AF4D089D597C4D04ACE53DE5DA6DZThUNGF2Mk9PK2I3UEtvalRyTS9jVlVWcVZoRnA2Z09ML0tpb3JvVS8xNFluUzFq"><img src="assets/stanford.png" alt="Stanford XCS224N - Natural Language Processing with Deep Learning" width="150"></a>
